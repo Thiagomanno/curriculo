@@ -146,7 +146,7 @@ body{
 .perfil_paragrafo_experiencia_comentario:before{
   content: "\2022"; 
   color: blue; 
-
+}
         
 .paragrafo_exp_com{
     padding-left: 25px;
