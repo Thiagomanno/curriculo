@@ -155,8 +155,9 @@ body{
 }
 
 .email_marketing{
-    font-size: 15px;
+    font-size: 18px;
     background-color: rgb(167, 195, 233);
+    text-decoration: none;
 }
 
 .bloque_decoration{
