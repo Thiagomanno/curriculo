@@ -9,12 +9,15 @@
 .boque_bandeiras_duas{
     display: flex;
     flex-direction: row;
+    align-items: end;
+    justify-content: end;
 }
 
 
 .boque_bandeira{
     font-size: 30px;
     width: 30px;
+    gap: 10px;
 }
 
 
