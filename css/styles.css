@@ -12,6 +12,10 @@ header{
     flex-direction: row;
     justify-content:space-around;
 }
+.cabecalho_titulo_dados_endereço{
+     font-family:Arial, Helvetica, sans-serif;
+     font-size: 15px;
+}
 
 body{
     text-align: center;
