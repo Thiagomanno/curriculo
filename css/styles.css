@@ -6,15 +6,11 @@
     font-weight: normal;
 }
 
-.boque_bandeira_ingles{
+.boque_bandeiras_duas{
     display: flex;
     flex-direction: row;
 }
 
-.boque_bandeira_espanhol{
-    display: flex;
-    flex-direction: row;
-}
 
 .boque_bandeira{
     font-size: 15px;
