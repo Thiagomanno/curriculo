@@ -37,6 +37,10 @@ body{
     text-align: center;
 }
 
+.em_breve {
+   font-size: 60px;
+}
+
 .cabecalho_redes_sociais{
     display: flex;
     flex-direction: row;
